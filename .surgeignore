@@ -1,0 +1,6 @@
+.git
+_backup_last_24h
+scratch
+cloudflared.exe
+.gemini
+node_modules
